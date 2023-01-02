@@ -5,3 +5,4 @@ Natural Language Processing-Concepts
 3. Word2Vec Basics
 4. Word2Vec on GOT Book
 5. TextPreprocessing Techniques IMDB_Dataset
+6. TextClassification IMDB_Dataset
