@@ -7,3 +7,4 @@ Natural Language Processing-Concepts
 5. TextPreprocessing Techniques IMDB_Dataset
 6. TextClassification IMDB_Dataset
 7. TextClassification using Word2Vec on IMDB_Dataset
+8. POS Tagging
